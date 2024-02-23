@@ -1,0 +1,13 @@
+CN=Builtin,DC=ldap,DC=domain,DC=local
+CN=Computers,DC=ldap,DC=domain,DC=local
+OU=Domain Controllers,DC=ldap,DC=domain,DC=local
+CN=ForeignSecurityPrincipals,DC=ldap,DC=domain,DC=local
+CN=Infrastructure,DC=ldap,DC=domain,DC=local
+CN=Keys,DC=ldap,DC=domain,DC=local
+CN=LostAndFound,DC=ldap,DC=domain,DC=local
+CN=Managed Service Accounts,DC=ldap,DC=domain,DC=local
+CN=NTDS Quotas,DC=ldap,DC=domain,DC=local
+CN=Program Data,DC=ldap,DC=domain,DC=local
+CN=System,DC=ldap,DC=domain,DC=local
+CN=TPM Devices,DC=ldap,DC=domain,DC=local
+CN=Users,DC=ldap,DC=domain,DC=local
